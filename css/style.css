@@ -69,3 +69,21 @@ p{
 .image4 .textbg{
     padding: 10px 10px;
 }
+
+@media(max-width:450px){
+    .ptext{
+        font-size: 15px;
+        font-weight: 600;
+    }
+    h2{
+        font-size: 25px;
+    }
+    p{
+        font-size: 20px;
+    }
+
+
+
+
+
+}
