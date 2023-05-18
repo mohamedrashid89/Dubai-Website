@@ -72,8 +72,8 @@ p{
 
 @media(max-width:450px){
     .ptext{
-        font-size: 15px;
-        font-weight: 600;
+        font-size: 10px;
+        font-weight: 800;
     }
     h2{
         font-size: 25px;
